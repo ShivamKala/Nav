@@ -28,3 +28,7 @@
 .navbar-toggler:not(.collapsed) .navbar-toggler-icon {
     display: inline;
 }
+
+#close{
+  font-size: 27px;
+}
